@@ -13,6 +13,7 @@ This repository contains personal experiments, as well as notes and references, 
 ## Relevant references:
 * <a href="https://www.barnesandnoble.com/w/the-master-algorithm-pedro-domingos/1121141247">The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World</a> by Pedro Domingos
 * <a href="https://news.mit.edu/2025/machine-learning-periodic-table-could-fuel-ai-discovery-0423">"Periodic table of machine learning" could fuel AI discovery</a> [MIT News]
+* I-Con: A Unifying Framework for Representation Learning (<a href="https://arxiv.org/abs/2504.16929">arXiv paper</a> | <a href="https://mhamilton.net/icon">website</a>)
 * <a href="https://arxiv.org/abs/2503.02113">Deep Learning is Not So Mysterious or Different</a> [arXiv]
 * <a href="https://arxiv.org/abs/2503.24322">NoProp: Training Neural Networks without Back-propagation or Forward-propagation</a> [arXiv]
 * <a href="https://www.ultralytics.com/glossary/neural-network-nn">Neural Networks Explained</a> (via Ultralytics)
