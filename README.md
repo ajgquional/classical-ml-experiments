@@ -4,8 +4,8 @@
 This repository contains personal experiments, as well as notes and references, in relation to my study of classical machine learning.
 
 > Special notes:
-> * This repository would be frequently maintained once new experiments/notes/papers come up.
-> * It may also be noticed that some implementations have errors or may be incorrect; thus, it is not recommended for the implementations to be copied as is. These implementations are uploaded here anyway to keep track of my personal learning.
+> * This repository would be frequently updated as new experiments/notes/papers come up.
+> * It is not recommended for the implementations to be a definitive resource or to be copied as is as some are deemed to have errors or may be incorrect (should you wish though to communicate about the implementations, feel free to reach out at agquional@up.edu.ph). These implementations are uploaded here anyway to keep track of my personal learning.
 
 ## About the directories
 * `AI221` - contains exercises submitted as part of the Classical Machine Learning (AI 221) course in the <a href="https://coe.upd.edu.ph/masters-of-engineering-in-artificial-intelligence/">AI Program</a> of UP Diliman; also contains re-implementations of some of Dr. Pilario's notebooks (repository <a href="https://github.com/kspilario/AI221">here</a>)
