@@ -19,3 +19,5 @@ This repository contains personal experiments, as well as notes and references, 
 * <a href="https://www.ultralytics.com/glossary/neural-network-nn">Neural Networks Explained</a> (via Ultralytics)
 * <a href="https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.33185&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false">TensorFlow Neural Network Playground</a>
 * <a href="https://towardsdatascience.com/i-won-10000-in-a-machine-learning-competition-heres-my-complete-strategy/">I Won $10,000 in a Machine Learning Competition — Here’s My Complete Strategy</a>
+* <a href="https://www.ultralytics.com/glossary/activation-function">Activation Function in Neural Networks</a> (via Ultralytics)
+* <a href="https://projector.tensorflow.org/">Embedding Projector - Visualization of High-Dimensional Data</a> (via TensorFlow)
