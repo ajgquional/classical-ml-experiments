@@ -21,3 +21,5 @@ This repository contains personal experiments, as well as notes and references, 
 * <a href="https://towardsdatascience.com/i-won-10000-in-a-machine-learning-competition-heres-my-complete-strategy/">I Won $10,000 in a Machine Learning Competition — Here’s My Complete Strategy</a>
 * <a href="https://www.ultralytics.com/glossary/activation-function">Activation Function in Neural Networks</a> (via Ultralytics)
 * <a href="https://projector.tensorflow.org/">Embedding Projector - Visualization of High-Dimensional Data</a> (via TensorFlow)
+* <a href="https://arxiv.org/abs/2012.00152">Every Model Learned by Gradient Descent Is Approximately a Kernel Machine</a> [arXiv]
+* <a href="https://developer.nvidia.com/blog/7-drop-in-replacements-to-instantly-speed-up-your-python-data-science-workflows">7 Drop-In Replacements to Instantly Speed Up Your Python Data Science Workflows</a> (via NVIDIA Developer)
